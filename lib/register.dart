@@ -179,6 +179,5 @@ class Register extends StatelessWidget {
         ),
       ),
     );
-    ;
   }
 }
